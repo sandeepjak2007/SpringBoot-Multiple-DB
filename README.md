@@ -1,10 +1,3 @@
-Here’s a complete and professional `README.md` file for your repository:
-**[SpringBoot-Multiple-DB](https://github.com/sandeepjak2007/SpringBoot-Multiple-DB)**
-
-You can copy this into your repo’s `README.md` file:
-
----
-
 # Spring Boot – Multiple Database Example (MySQL + PostgreSQL)
 
 This is a sample Spring Boot application that demonstrates how to connect to **multiple databases** using **JPA**, with **MySQL** and **PostgreSQL** as examples.
